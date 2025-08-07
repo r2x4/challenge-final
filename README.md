@@ -40,8 +40,6 @@ El modelo permite a TelecomX identificar proactivamente clientes en riesgo de ca
 
 ---
 
----
-
 ## 🚀 Resultados del Modelo
 
 ### Modelo Final: SMOTETomek + Decision Tree Optimizado
