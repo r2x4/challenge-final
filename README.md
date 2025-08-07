@@ -9,7 +9,7 @@
 - Fuente de Datos: TelecomX_Data.json (procesado)
 
 ## Enlace Trello: 
-https://trello.com/invite/b/683247a011cf16e825d3cdf2/ATTI77e7946a6efee162ac71e998a09da9f8E46F69D8/desafiotelecomxlatam
+https://trello.com/b/454iembZ/challege-2
 
 <p align="center"> Estado del proyecto: ✅ Finalizado </p>
 
@@ -25,6 +25,20 @@ El modelo permite a TelecomX identificar proactivamente clientes en riesgo de ca
 - `TelecomX_ModeloML.ipynb`: Notebook con el desarrollo del modelo predictivo
 - `datos_final.json`: Dataset procesado y limpio
 - `visualizaciones_modelo.py`: Scripts de visualización del modelo
+
+---
+# Imagenes del Proyecto
+### Matriz de Correlacion
+<img width="904" height="799" alt="image" src="https://github.com/user-attachments/assets/6d2ded27-404e-4d11-8d28-73db1a39a37a" />
+
+### Datos Iniciales
+<img width="1123" height="794" alt="image" src="https://github.com/user-attachments/assets/0cca77ed-8521-4baa-a347-96e13254b871" />
+
+### Rendimiento con modelo SMOTETomek
+<img width="1179" height="474" alt="image" src="https://github.com/user-attachments/assets/d849fe47-0398-40c2-a2de-0f72ec00cec9" />
+<img width="1176" height="483" alt="image" src="https://github.com/user-attachments/assets/23dd293e-5921-4ecf-bf82-84af18df9abe" />
+
+---
 
 ---
 
