@@ -7,6 +7,9 @@
 - Librerías de ML: Scikit-learn, Imbalanced-learn
 - Visualización: Matplotlib, Seaborn
 - Fuente de Datos: TelecomX_Data.json (procesado)
+- 02 archivos : Python .ipynb
+- Modelo escogido : modelo_final.ipynb
+- Modelo Inicial no Usado al final : challenge_final.ipynb
 
 ## Enlace Trello: 
 https://trello.com/b/454iembZ/challege-2
