@@ -38,6 +38,13 @@ El modelo permite a TelecomX identificar proactivamente clientes en riesgo de ca
 <img width="1179" height="474" alt="image" src="https://github.com/user-attachments/assets/d849fe47-0398-40c2-a2de-0f72ec00cec9" />
 <img width="1176" height="483" alt="image" src="https://github.com/user-attachments/assets/23dd293e-5921-4ecf-bf82-84af18df9abe" />
 
+### Git
+<img width="1125" height="544" alt="image" src="https://github.com/user-attachments/assets/6367b45e-3c28-4735-87c6-b74317ffab70" />
+
+
+### Archivos
+<img width="975" height="464" alt="image" src="https://github.com/user-attachments/assets/8273fd20-b961-4da8-924d-d6971aa493f1" />
+
 ---
 
 ## 🚀 Resultados del Modelo
